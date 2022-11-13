@@ -1,4 +1,6 @@
-# xbox-playfab-unity
+# Xbox Playfab Unity
+
+Logon to Playfab - using Gamertag if on Xbox.
 
 ## How to use with Unity editor
 
@@ -19,7 +21,7 @@ Add assets from this repo
 
 Check it plays ok in the Unity editor 
 
-Switch platform to Universal Windpws Platform - project / application from Unity  
+Switch platform to Universal Windows Platform - project / application from Unity  
 - Select build 14393 or later in the Minimum Version dropdown. Select the latest SDK in the Target Version dropdown.  
 - Optional enable the Development checkbox to enable logging.
 
