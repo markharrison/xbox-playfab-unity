@@ -1,6 +1,6 @@
 # Xbox PlayFab Unity
 
-Logon to PlayFab - using Gamertag if on Xbox.
+Unity script. Logon to PlayFab - using Gamertag if on Xbox.
 
 ## How to use with Unity editor
 
