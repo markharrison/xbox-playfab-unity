@@ -28,6 +28,7 @@ Switch platform to Universal Windows Platform - project / application from Unity
 In Visual Studio, with the the built UWP application:
 
 - Add Nuget Install-Package Microsoft.Xbox.Live.SDK.WinRT.UWP
+  - Either use UI - or command `Install-Package Microsoft.Xbox.Live.SDK.WinRT.UWP`
 
 - Ensure xboxservices.config is in project and 'copied to' in  build
 
